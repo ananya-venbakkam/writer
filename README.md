@@ -46,7 +46,7 @@ writerTools writer
 
 ___
 
-Your contribution requests are welcome. Please open an issue before making a major change. Pleas make sure to update tests as appropriate.
+Your contribution requests are welcome. Please open an issue before making a major change. Please make sure to update tests as appropriate.
 
 
 
@@ -66,7 +66,6 @@ MIT License
 
 ![brooklyn-nine-nine](https://giphy.com/gifs/l41lNp8dHpfaJE25O/html5)
 
-Ananya Venbakkam 10/15/2018
 
 ​    
 
