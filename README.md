@@ -44,7 +44,7 @@ writerTools writer
 
 ## Contributing 
 
----
+___
 
 Your contribution requests are welcome. Please open an issue before making a major change. Pleas make sure to update tests as appropriate.
 
@@ -56,9 +56,15 @@ ___
 
 MIT License
 
-<h2> Developer
+[License](LICENSE.md)
 
----
+
+## Code of Conduct
+
+
+[Code of Conduct]
+
+![brooklyn-nine-nine](https://giphy.com/gifs/l41lNp8dHpfaJE25O/html5)
 
 Ananya Venbakkam 10/15/2018
 
