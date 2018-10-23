@@ -1,6 +1,6 @@
 
 #  writer    
-![logo](writerLogo.png)
+![logo](logo.png)
 
 
 This application takes in a bunch of points and puts them together into whole sentences, with proper grammar and punctuation. From now on, to write a great summary, all you'll need is a bunch of points!
