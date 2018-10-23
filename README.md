@@ -1,9 +1,11 @@
+![logo](~/Pictures/College/Fall2018/CMPINF/writerLogo.png) 
 #  writer    ![CI status](https://img.shields.io/badge/docs-passing-#a62881.svg) 
 
 ---
 
 This application takes in a bunch of points and puts them together into whole sentences, with proper grammar and punctuation. From now on, to write a great summary, all you'll need is a bunch of points!
 
+![writing](https://media1.giphy.com/media/b55x0VFpFKm7S/giphy.webp?cid=3640f6095bce88266c6c56544d390a65)
 
 
 ## Installation
@@ -62,7 +64,7 @@ MIT License
 ## Code of Conduct
 
 
-[Code of Conduct]
+[Code of Conduct](CODE_OF_CONDUCT.md)
 
 ![brooklyn-nine-nine](https://giphy.com/gifs/l41lNp8dHpfaJE25O/html5)
 
