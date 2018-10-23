@@ -1,4 +1,4 @@
-![Logo](~/Pictures/CMPINF/writerLogo.png)#  writer    ![CI status](https://img.shields.io/badge/docs-passing-#a62881.svg) 
+![Logo](writerLogo.png)#  writer    ![CI status](https://img.shields.io/badge/docs-passing-#a62881.svg) 
 
 ---
 
@@ -58,6 +58,7 @@ MIT License
 
 [License](LICENSE.md)
 
+![Conduct](https://media3.giphy.com/media/3oz8xBlyF3GJPCVZeM/200.webp?cid=3640f6095bcf978b635150676f0119db)
 
 ## Code of Conduct
 ---
