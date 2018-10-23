@@ -1,7 +1,7 @@
-![logo](writerLogo.png) 
-#  writer    
 
----
+#  writer    
+![logo](writerLogo.png)
+
 
 This application takes in a bunch of points and puts them together into whole sentences, with proper grammar and punctuation. From now on, to write a great summary, all you'll need is a bunch of points!
 
@@ -10,7 +10,6 @@ This application takes in a bunch of points and puts them together into whole se
 
 ## Installation
 
----
 
 ### Requirements
 
@@ -25,7 +24,6 @@ Windows : `edit writer`
 
 ## Usage
 
----
 
 ```python
 import writer 
@@ -47,15 +45,12 @@ writerTools writer
 
 ## Contributing 
 
-___
-
 Your contribution requests are welcome. Please open an issue before making a major change. Please make sure to update tests as appropriate.
 
 
 
 ## License
 
-___
 
 MIT License
 
