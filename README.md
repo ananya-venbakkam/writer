@@ -58,7 +58,7 @@ MIT License
 
 [License](LICENSE.md)
 
-![conduct]((https://media0.giphy.com/media/5t9wJjyHAOxvnxcPNk/giphy.webp)
+![conduct](https://media0.giphy.com/media/5t9wJjyHAOxvnxcPNk/giphy.webp)
 
 ## Code of Conduct
 
