@@ -1,7 +1,7 @@
-![logo](writerLogo.png) 
-#  writer    ![CI status](https://img.shields.io/badge/docs-passing-#a62881.svg) 
 
----
+#  writer    
+![logo](logo.png)
+
 
 This application takes in a bunch of points and puts them together into whole sentences, with proper grammar and punctuation. From now on, to write a great summary, all you'll need is a bunch of points!
 
@@ -10,7 +10,6 @@ This application takes in a bunch of points and puts them together into whole se
 
 ## Installation
 
----
 
 ### Requirements
 
@@ -25,7 +24,6 @@ Windows : `edit writer`
 
 ## Usage
 
----
 
 ```python
 import writer 
@@ -41,12 +39,11 @@ writerTools writer
 \home\writer
 	apt-get writer
 ```
+![brooklyn-nine-nine](https://media2.giphy.com/media/FOhgYDozbRpPq/200w.webp?cid=3640f6095bcf96676666324955c407df)
 
 
 
 ## Contributing 
-
-___
 
 Your contribution requests are welcome. Please open an issue before making a major change. Please make sure to update tests as appropriate.
 
@@ -54,20 +51,20 @@ Your contribution requests are welcome. Please open an issue before making a maj
 
 ## License
 
-___
 
 MIT License
 
 [License](LICENSE.md)
 
-![goldblum](https://media0.giphy.com/media/5t9wJjyHAOxvnxcPNk/giphy.webp)
 
 ## Code of Conduct
+
+![why](https://media0.giphy.com/media/X4YqmJEl6wJoY/giphy.webp?cid=3640f6095bcf9c2f784a3248418efa1c)
 
 
 [Code of Conduct](CODE_OF_CONDUCT.md)
 
-![brooklyn-nine-nine](https://media2.giphy.com/media/FOhgYDozbRpPq/200w.webp?cid=3640f6095bcf96676666324955c407df)
+
 
 
 ​    
