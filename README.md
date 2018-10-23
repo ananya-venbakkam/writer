@@ -1,4 +1,4 @@
-<img src = "writerLogo.png" alt = "Logo" style = "width:10px;"> 
+
 #  writer    ![CI status](https://img.shields.io/badge/docs-passing-#a62881.svg) 
 
 ---
