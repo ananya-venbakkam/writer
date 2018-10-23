@@ -1,4 +1,4 @@
-#  writer    ![CI status](https://img.shields.io/badge/docs-passing-#a62881.svg) 
+![Logo](~/Pictures/CMPINF/writerLogo.png)#  writer    ![CI status](https://img.shields.io/badge/docs-passing-#a62881.svg) 
 
 ---
 
@@ -60,11 +60,11 @@ MIT License
 
 
 ## Code of Conduct
+---
 
+[Code of Conduct](CODE_OF_CONDUCT.md)
 
-[Code of Conduct]
-
-![brooklyn-nine-nine](https://giphy.com/gifs/l41lNp8dHpfaJE25O/html5)
+![brooklyn-nine-nine](https://media0.giphy.com/media/l41lNp8dHpfaJE25O/giphy.gif?cid=3640f6095bce3c937757506645137ac8)
 
 
 ​    
