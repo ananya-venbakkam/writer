@@ -60,9 +60,10 @@ MIT License
 
 [License](LICENSE.md)
 
-![goldblum](https://media0.giphy.com/media/5t9wJjyHAOxvnxcPNk/giphy.webp)
 
 ## Code of Conduct
+
+![why](https://media0.giphy.com/media/X4YqmJEl6wJoY/giphy.webp?cid=3640f6095bcf9c2f784a3248418efa1c)
 
 
 [Code of Conduct](CODE_OF_CONDUCT.md)
