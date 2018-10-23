@@ -1,4 +1,4 @@
-![logo](~/Pictures/College/Fall2018/CMPINF/writerLogo.png) 
+![logo](writerLogo.png) 
 #  writer    ![CI status](https://img.shields.io/badge/docs-passing-#a62881.svg) 
 
 ---
@@ -60,13 +60,14 @@ MIT License
 
 [License](LICENSE.md)
 
+![goldblum](https://media0.giphy.com/media/5t9wJjyHAOxvnxcPNk/giphy.webp)
 
 ## Code of Conduct
 
 
 [Code of Conduct](CODE_OF_CONDUCT.md)
 
-![brooklyn-nine-nine](https://giphy.com/gifs/l41lNp8dHpfaJE25O/html5)
+![brooklyn-nine-nine](https://media2.giphy.com/media/FOhgYDozbRpPq/200w.webp?cid=3640f6095bcf96676666324955c407df)
 
 
 ​    
