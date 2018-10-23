@@ -1,5 +1,5 @@
 ![logo](writerLogo.png) 
-#  writer    ![CI status](https://img.shields.io/badge/docs-passing-#a62881.svg) 
+#  writer    
 
 ---
 
@@ -41,6 +41,7 @@ writerTools writer
 \home\writer
 	apt-get writer
 ```
+![brooklyn-nine-nine](https://media2.giphy.com/media/FOhgYDozbRpPq/200w.webp?cid=3640f6095bcf96676666324955c407df)
 
 
 
@@ -68,7 +69,7 @@ MIT License
 
 [Code of Conduct](CODE_OF_CONDUCT.md)
 
-![brooklyn-nine-nine](https://media2.giphy.com/media/FOhgYDozbRpPq/200w.webp?cid=3640f6095bcf96676666324955c407df)
+
 
 
 ​    
